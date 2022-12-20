@@ -158,6 +158,109 @@ function App() {
 					price="$156"
 					time="per night"
 				/>
+
+				{/* ------------ */}
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
+				<RoomCard
+					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					title="Cotignac, France"
+					rating="4.81"
+					distance="5,567 Kilometers away"
+					date="Jan 9 - 14"
+					price="$156"
+					time="per night"
+				/>
+
 			</div>
 		</div>
 	);
