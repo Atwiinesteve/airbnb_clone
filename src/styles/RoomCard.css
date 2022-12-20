@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
 .cards--container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20rem, 4fr));
@@ -37,11 +39,9 @@
 .card .card--title .title,
 .card .card--title .rating {
     font-weight: bolder;
-}
-
-.card .card--title .rating::before {
-    content: "hello";
-    margin-right: 0.4rem;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 1px;
 }
 
 .card .card--price {

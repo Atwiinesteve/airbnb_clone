@@ -18,7 +18,7 @@ function RoomCard({ image, title, rating, distance, date, price, time }) {
 				</div>
 				<div className="card--title">
 					<div className="title">{title}</div>
-					<div className="rating">{rating}</div>
+					<div className="rating">&#11088;{rating}</div>
 				</div>
 				<div className="card--distance">
 					<p>{distance}</p>
