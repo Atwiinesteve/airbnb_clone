@@ -256,6 +256,7 @@ function App() {
 					time="per night"
 				/>
 			</div>
+      
 		</div>
 	);
 }
