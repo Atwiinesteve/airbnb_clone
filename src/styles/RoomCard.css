@@ -9,6 +9,16 @@
     height: 500px;
 }
 
+.card .card--image {
+    position: relative;
+}
+
+.card .card--image .heart--logo {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
 .card .card--image img {
     width: 300px;
     height: 320px;

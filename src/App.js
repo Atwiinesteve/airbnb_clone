@@ -1,16 +1,14 @@
 // Importing components
-import Navbar from '../src/components/Navbar';
-import PricesBar from '../src/components/PriceBar';
-import IconsMenu from '../src/components/IconsMenu';
-import RoomCard from './components/RoomCard';
+import Navbar from "../src/components/Navbar";
+import PricesBar from "../src/components/PriceBar";
+import IconsMenu from "../src/components/IconsMenu";
+import RoomCard from "./components/RoomCard";
 
 // Importing styles
-import './App.css';
-
+import "./App.css";
 
 function App() {
-
-  return (
+	return (
 		<div className="main--container">
 			{/* Prices Top bar */}
 			<PricesBar />
@@ -132,7 +130,7 @@ function App() {
 					time="per night"
 				/>
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/436568c0-cce1-4265-85a7-c940b6eccbb5.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/e4b91569-4713-4b63-9f03-6bca58acd50f.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -150,7 +148,7 @@ function App() {
 					time="per night"
 				/>
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/e4b91569-4713-4b63-9f03-6bca58acd50f.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -158,11 +156,8 @@ function App() {
 					price="$156"
 					time="per night"
 				/>
-
-				{/* ------------ */}
-
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/899b8517-7a3e-4da4-99bb-da1a3db43901.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -172,7 +167,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/ab5a3d27-c191-4971-8add-e42f9f54c089.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -182,7 +177,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/0dcb9e1e-cc3d-4d48-9889-cf415d0e2a7e.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -192,7 +187,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/miso/Hosting-29672680/original/157f1d34-6814-4a9a-9214-0f15a408e89b.jpeg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -202,7 +197,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/1cc26ed4-8e0d-48e9-ae36-f9ac9c227977.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -212,7 +207,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/ad167b13-a7cf-4f42-a5d0-3562926771db.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -222,7 +217,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/d83d9c4b-2b76-4ea9-b164-b3b036c92411.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -232,7 +227,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/prohost-api/Hosting-18984206/original/11577d68-33bb-444a-8c06-be91f361324f.jpeg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -242,7 +237,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/be1b035d-477c-417c-a2bc-bbff7032b34d.jpg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -252,7 +247,7 @@ function App() {
 				/>
 
 				<RoomCard
-					image="https://a0.muscache.com/im/pictures/aaba9196-42f3-4fcc-921f-3c2907c597f2.jpg?im_w=720"
+					image="https://a0.muscache.com/im/pictures/miso/Hosting-11330743/original/a4b668d2-fe86-497f-9690-af87305c09bb.jpeg?im_w=720"
 					title="Cotignac, France"
 					rating="4.81"
 					distance="5,567 Kilometers away"
@@ -260,11 +255,9 @@ function App() {
 					price="$156"
 					time="per night"
 				/>
-
 			</div>
 		</div>
 	);
-
 }
 
 export default App;
