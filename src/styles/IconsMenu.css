@@ -1,0 +1,30 @@
+.icons--menu {
+    width: 100%;
+    height: 100px;
+    padding: 1.1rem 0;
+}
+
+.icons--menu .icons--links {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.icons--menu .icons--links .icon--link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.icons--menu .icons--links .icon--link .icon--desc p {
+    font-size: 0.8rem;
+}
+
+.icons--menu .icons--links .icon--link a {
+    text-decoration: none;
+}
+
+.icons--menu .icons--links .icon--link a img {
+    width: 35px;
+}
