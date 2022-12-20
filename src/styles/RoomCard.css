@@ -1,0 +1,45 @@
+.cards--container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 4fr));
+    gap: 1rem;
+}
+
+.card {
+    width: 290px;
+    height: 500px;
+}
+
+.card .card--image img {
+    width: 300px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 0.8rem;
+}
+
+.card .card--title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.card .card--title .title,
+.card .card--title .rating {
+    font-weight: bolder;
+}
+
+.card .card--title .rating::before {
+    content: "hello";
+    margin-right: 0.4rem;
+}
+
+.card .card--price {
+    display: flex;
+    align-items: center;
+}
+
+.card .card--price .amount {
+    font-weight: bolder;
+    margin-right: 0.8rem;
+}
