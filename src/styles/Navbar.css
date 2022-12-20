@@ -1,0 +1,121 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    padding: 5rem;
+}
+
+header nav {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header nav .logo--area img {
+    width: 90px;
+}
+
+header nav .anywhere--anyweek {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0.6rem;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 40px;
+}
+
+header nav .anywhere--anyweek .search--box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header nav .anywhere--anyweek .search--box p {
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+header nav .anywhere--anyweek .anywhere,
+header nav .anywhere--anyweek .any--week {
+    padding: 5px;
+    border-right: 1px solid black;
+}
+
+header nav .anywhere--anyweek .anywhere p,
+header nav .anywhere--anyweek .any--week p {
+    text-transform: capitalize;
+    color: black;
+    font-weight: 900;
+}
+
+header nav .anywhere--anyweek .search--box span.search--icon {
+    background-color: rgb(241, 63, 93);
+    border-radius: 50%;
+    padding: 1rem;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header nav .anywhere--anyweek .search--box span.search--icon img {
+    width: 15px;
+    color: white;
+}
+
+header nav .user--area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header nav .user--area .globe--icon img {
+    width: 20px;
+}
+
+header nav .user--area .user--input--area .bars--icon img {
+    width: 20px;
+}
+
+header nav .user--area .text--area {
+    margin-right: 15px;
+    align-self: center;
+}
+
+header nav .user--area .text--area p {
+    font-weight: bolder;
+}
+
+header nav .user--area .user--input--area {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 20px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 40px;
+    padding: 0.3rem 0.5rem;
+}
+
+header nav .user--area .user--input--area .bars--icon {
+    margin-right: 10px;
+}
+
+header nav .user--area .user--input--area .user--avatar {
+    position: relative;
+}
+
+header nav .user--area .user--input--area .user--avatar span.notification {
+    position: absolute;
+    top: 2px;
+    right: 0.5px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: red;
+}
+
+header nav .user--area .user--input--area .user--avatar .avatar--image img {
+    width: 30px;
+}
