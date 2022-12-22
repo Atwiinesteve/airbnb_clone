@@ -3,6 +3,7 @@ import Navbar from "../src/components/Navbar";
 import PricesBar from "../src/components/PriceBar";
 import IconsMenu from "../src/components/IconsMenu";
 import RoomCard from "./components/RoomCard";
+import Footer from "./components/Footer";
 
 // Importing styles
 import "./App.css";
@@ -256,6 +257,9 @@ function App() {
 					time="per night"
 				/>
 			</div>
+
+			{/* Footer Area */}
+			<Footer />
       
 		</div>
 	);
